@@ -122,9 +122,9 @@ Your trust is our priority. Edges Network employs:
 
 We're here to help 24/7:
 - **In-App Chat:** Tap the support icon for live assistance.
-- **WhatsApp:** Message +234-XXX-XXXXXX (replace with official number from app).
-- **Email:** support@edgesnetwork.ng
-- **Phone:** +234-705-7517841
+- **WhatsApp:** Message +234-705-751-7841
+- **Email:** edgesnetwork@gmail.com
+- **Phone:** +234-705-751-7841
 - **FAQ:** In-app help center covers common issues like failed payments or bundle activation.
 
 **Common Issues:**
